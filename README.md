@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my journey as an aspiring Java
 
 ## 🌟 Live Demo
 
-Visit the live site: [your-username.github.io](https://your-username.github.io)
+Visit the live site: (https://github.com/Padmasri573/Portfolio)
 
 ## 📋 About
 
